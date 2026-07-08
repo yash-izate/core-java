@@ -7,7 +7,7 @@ public class TernaryOperator {
     static void largestNo() {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("\nWelcome to Ternary Operator Demo !");
+        System.out.println("\nWelcome to Ternary Operator EnumClassDemo !");
         System.out.print("Enter first number: ");
         float num1 = sc.nextFloat();
         System.out.print("Enter second number: ");

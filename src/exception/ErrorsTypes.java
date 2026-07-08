@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ErrorsTypes {
     public static void main(String[] args) {
 
-//        Syntax Errors Demo
+//        Syntax Errors EnumClassDemo
 //        int d = 7        Syntax Error no semicolon
 //        a = 7;           Syntax Error a not declared
 

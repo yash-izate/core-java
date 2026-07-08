@@ -2,7 +2,7 @@ package basic;
 
 public class MathClass {
     public static void main(String[] args) {
-        System.out.println("\nWelcome to Math Class Methods Demo !.");
+        System.out.println("\nWelcome to Math Class Methods EnumClassDemo !.");
 
         // constant values
         System.out.println(Math.PI);
