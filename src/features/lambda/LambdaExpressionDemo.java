@@ -1,7 +1,15 @@
 package features.lambda;
 
-/* (Using Lambda Expression)
+/*
+A Lambda Expression is a shorter way to implement a functional interface.
 This is why functional interfaces exist.
+
+Where Are Lambdas Used?
+Collections (sort())
+Streams
+Threads
+Event handling
+Functional programming
 */
 
 @FunctionalInterface
